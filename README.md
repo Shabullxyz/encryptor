@@ -3,13 +3,11 @@ The encriptador is a command-line program that allows you to encrypt and decrypt
 Requirements
 The encriptador requires Python 3 and the cryptography library. You can install the latter using pip:
 
-Copy code
+
 pip install cryptography
 Usage
 The encriptador is run from the command line with the following format:
 
-css
-Copy code
 encriptador archivo [-g] [-k KEYFILE] [-d]
 Where:
 
